@@ -2,7 +2,7 @@
 
 # Notas:
 
-Esta es mi primer app con nodeJS
+Esta es mi primer app con nodeJS.
 
 
 ```
