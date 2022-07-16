@@ -1,0 +1,17 @@
+{
+  "name": "03---bases_node",
+  "version": "1.0.0",
+  "description": "Curso Node",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tabla2": "node app --tabla=2"
+  },
+  "author": "Gerardo Truin",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
